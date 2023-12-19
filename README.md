@@ -2,7 +2,7 @@
 
 ## Data Types
 
-#### Integers
+#### Integer
 
 ```sql
 INT -- Between -2 billion / +2 billion. It uses 4 bytes of Storage.
