@@ -9,7 +9,7 @@ INT -- Between -2 billion / +2 billion. It uses 4 bytes of Storage.
 ```
 
 ```sql
-TINYINT -- Used for data from 0 to 255. It uses 1 bytes of Storage....
+TINYINT -- Used for data from 0 to 255. It uses 1 bytes of Storage.
 ```
 
 ```sql
