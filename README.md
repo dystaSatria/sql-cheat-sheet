@@ -1,6 +1,6 @@
 # MSSQL Cheat Sheet
 
-## Data Types
+## Data Types....
 
 #### Integer
 
